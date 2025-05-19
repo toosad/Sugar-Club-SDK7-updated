@@ -90,27 +90,6 @@
         "serializationType": "transform"
       },
       "data": {
-        "512": {
-          "json": {
-            "position": {
-              "x": 17.75,
-              "y": 0,
-              "z": 18
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7071067690849304,
-              "z": 0,
-              "w": 0.7071067690849304
-            },
-            "scale": {
-              "x": 0.9899999499320984,
-              "y": 0.9900000095367432,
-              "z": 0.9899999499320984
-            },
-            "parent": 0
-          }
-        },
         "513": {
           "json": {
             "position": {
@@ -118,16 +97,16 @@
               "y": 1.75,
               "z": 7.5
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 0
           }
@@ -139,16 +118,16 @@
               "y": 3.5,
               "z": 16
             },
+            "scale": {
+              "x": 10,
+              "y": 5,
+              "z": 0.9999999403953552
+            },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": 0.7071067690849304
-            },
-            "scale": {
-              "x": 10,
-              "y": 5,
-              "z": 0.9999999403953552
             },
             "parent": 0
           }
@@ -160,16 +139,16 @@
               "y": 1.75,
               "z": 9.75
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0.5,
               "z": 0,
               "w": 0.8660253882408142
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 0
           }
@@ -181,16 +160,16 @@
               "y": 0,
               "z": 23
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0.5,
               "z": 0,
               "w": 0.8660253882408142
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 0
           }
@@ -202,16 +181,121 @@
               "y": 41.25,
               "z": 5.5
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0.258819043636322,
               "z": 0,
               "w": 0.9659258127212524
             },
+            "parent": 0
+          }
+        },
+        "518": {
+          "json": {
+            "position": {
+              "x": 0.003170013427734375,
+              "y": 0.5499999523162842,
+              "z": 0.06232786178588867
+            },
             "scale": {
-              "x": 1,
+              "x": 0.33000001311302185,
+              "y": 0.33000001311302185,
+              "z": 0.33000001311302185
+            },
+            "rotation": {
+              "x": 0,
               "y": 1,
-              "z": 1
+              "z": 0,
+              "w": 6.123234262925839e-17
+            },
+            "parent": 520
+          }
+        },
+        "519": {
+          "json": {
+            "position": {
+              "x": 17.62897300720215,
+              "y": 6.217248964370656e-17,
+              "z": 18.125444412231445
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 0.9899998903274536,
+              "y": 0.9870090484619141,
+              "z": 0.9870089292526245
+            },
+            "parent": 0
+          }
+        },
+        "520": {
+          "json": {
+            "position": {
+              "x": 49.25,
+              "y": 0.75,
+              "z": 1.75
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 2,
+              "y": 2,
+              "z": 2
+            },
+            "parent": 0
+          }
+        },
+        "521": {
+          "json": {
+            "position": {
+              "x": 53.25,
+              "y": 1,
+              "z": 28
+            },
+            "scale": {
+              "x": 1.999999761581421,
+              "y": 2,
+              "z": 1.999999761581421
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.9238795042037964,
+              "z": 0,
+              "w": 0.3826834559440613
+            },
+            "parent": 0
+          }
+        },
+        "523": {
+          "json": {
+            "position": {
+              "x": 52.250003814697266,
+              "y": 0,
+              "z": 27.54203224182129
+            },
+            "scale": {
+              "x": 10.00000286102295,
+              "y": 3,
+              "z": 1.000000238418579
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.17700369656085968,
+              "z": 0,
+              "w": 0.984210193157196
             },
             "parent": 0
           }
@@ -246,6 +330,18 @@
             "networkId": 0,
             "entityId": 8003
           }
+        },
+        "518": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8005
+          }
+        },
+        "523": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8006
+          }
         }
       }
     },
@@ -263,7 +359,74 @@
             "states": []
           }
         },
-        "512": {
+        "513": {
+          "json": {
+            "states": []
+          }
+        },
+        "514": {
+          "json": {
+            "states": []
+          }
+        },
+        "515": {
+          "json": {
+            "states": [
+              {
+                "clip": "Idle",
+                "playing": false,
+                "weight": 1,
+                "speed": 1,
+                "loop": true,
+                "shouldReset": false
+              },
+              {
+                "clip": "ON/OFF_Action",
+                "playing": false,
+                "weight": 1,
+                "speed": 1,
+                "loop": false,
+                "shouldReset": false
+              },
+              {
+                "clip": "Light_Action",
+                "playing": false,
+                "weight": 1,
+                "speed": 1,
+                "loop": false,
+                "shouldReset": false
+              }
+            ]
+          }
+        },
+        "516": {
+          "json": {
+            "states": [
+              {
+                "clip": "ArmatureAction",
+                "playing": true,
+                "loop": true
+              }
+            ]
+          }
+        },
+        "517": {
+          "json": {
+            "states": [
+              {
+                "clip": "ArmatureAction",
+                "playing": true,
+                "loop": true
+              }
+            ]
+          }
+        },
+        "518": {
+          "json": {
+            "states": []
+          }
+        },
+        "519": {
           "json": {
             "states": [
               {
@@ -397,66 +560,19 @@
             ]
           }
         },
-        "513": {
+        "520": {
           "json": {
             "states": []
           }
         },
-        "514": {
+        "521": {
           "json": {
             "states": []
           }
         },
-        "515": {
+        "523": {
           "json": {
-            "states": [
-              {
-                "clip": "Idle",
-                "playing": false,
-                "weight": 1,
-                "speed": 1,
-                "loop": true,
-                "shouldReset": false
-              },
-              {
-                "clip": "ON/OFF_Action",
-                "playing": false,
-                "weight": 1,
-                "speed": 1,
-                "loop": false,
-                "shouldReset": false
-              },
-              {
-                "clip": "Light_Action",
-                "playing": false,
-                "weight": 1,
-                "speed": 1,
-                "loop": false,
-                "shouldReset": false
-              }
-            ]
-          }
-        },
-        "516": {
-          "json": {
-            "states": [
-              {
-                "clip": "ArmatureAction",
-                "playing": true,
-                "loop": true
-              }
-            ]
-          }
-        },
-        "517": {
-          "json": {
-            "states": [
-              {
-                "clip": "ArmatureAction",
-                "playing": true,
-                "loop": true
-              }
-            ]
+            "states": []
           }
         }
       }
@@ -488,13 +604,6 @@
         "protocolBuffer": "PBGltfContainer"
       },
       "data": {
-        "512": {
-          "json": {
-            "src": "assets/scene/Models/sc_2025/sc_2025.glb",
-            "visibleMeshesCollisionMask": 1,
-            "invisibleMeshesCollisionMask": 2
-          }
-        },
         "513": {
           "json": {
             "src": "assets/asset-packs/admin_tools/admin_toolkit.glb",
@@ -521,6 +630,34 @@
             "src": "assets/asset-packs/teleport/teleport.glb",
             "visibleMeshesCollisionMask": 1,
             "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "519": {
+          "json": {
+            "src": "assets/scene/Models/sc_2025_02/sc_2025_02.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "520": {
+          "json": {
+            "src": "assets/asset-packs/sign_neon_rect/sign_square.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "521": {
+          "json": {
+            "src": "assets/scene/Models/mooxx_norig/mooxx_norig.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        },
+        "523": {
+          "json": {
+            "src": "assets/asset-packs/invisible_wall/invisible_box.glb",
+            "visibleMeshesCollisionMask": 2,
+            "invisibleMeshesCollisionMask": 0
           }
         }
       }
@@ -619,11 +756,6 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
-          "json": {
-            "value": "sc_2025.glb"
-          }
-        },
         "513": {
           "json": {
             "value": "Admin Tools"
@@ -647,6 +779,58 @@
         "517": {
           "json": {
             "value": "Teleport Main dance floor"
+          }
+        },
+        "518": {
+          "json": {
+            "value": "Text_2"
+          }
+        },
+        "519": {
+          "json": {
+            "value": "sc_2025_02.glb"
+          }
+        },
+        "520": {
+          "json": {
+            "value": "Club info"
+          }
+        },
+        "521": {
+          "json": {
+            "value": "mooxx_norig.glb"
+          }
+        },
+        "523": {
+          "json": {
+            "value": "SugarClub Wear link"
+          }
+        }
+      }
+    },
+    {
+      "name": "core::PointerEvents",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBPointerEvents"
+      },
+      "data": {
+        "523": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 3,
+                  "hoverText": "Sugar Club Wear",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
           }
         }
       }
@@ -681,6 +865,59 @@
               1043,
               1042
             ]
+          }
+        },
+        "518": {
+          "json": {
+            "componentIds": [
+              1030,
+              1042
+            ]
+          }
+        },
+        "523": {
+          "json": {
+            "componentIds": [
+              1041,
+              1062
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "core::TextShape",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBTextShape"
+      },
+      "data": {
+        "518": {
+          "json": {
+            "text": "\nWelcome to legendary Sugar Club !\n\nThis club is one of the oldest running scenes in DCL,\n& hosted countless parties and events\nover the years. \nThis is a legacy club built in 2019 !\n",
+            "font": 2,
+            "fontSize": 2,
+            "fontAutoSize": false,
+            "textAlign": 4,
+            "paddingTop": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "lineSpacing": 0,
+            "outlineWidth": 0,
+            "outlineColor": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "textColor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
           }
         }
       }
@@ -720,6 +957,11 @@
           "json": {
             "visible": false
           }
+        },
+        "523": {
+          "json": {
+            "visible": false
+          }
         }
       }
     },
@@ -736,9 +978,9 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
+        "519": {
           "json": {
-            "gizmo": 0
+            "gizmo": 3
           }
         }
       }
@@ -1157,12 +1399,15 @@
                 "entity": 0,
                 "open": true,
                 "children": [
-                  512,
                   513,
                   514,
                   515,
                   516,
-                  517
+                  517,
+                  519,
+                  520,
+                  521,
+                  523
                 ]
               },
               {
@@ -1171,10 +1416,6 @@
               },
               {
                 "entity": 2,
-                "children": []
-              },
-              {
-                "entity": 512,
                 "children": []
               },
               {
@@ -1195,6 +1436,29 @@
               },
               {
                 "entity": 517,
+                "children": []
+              },
+              {
+                "entity": 519,
+                "children": []
+              },
+              {
+                "entity": 518,
+                "children": []
+              },
+              {
+                "entity": 520,
+                "open": true,
+                "children": [
+                  518
+                ]
+              },
+              {
+                "entity": 521,
+                "children": []
+              },
+              {
+                "entity": 523,
                 "children": []
               }
             ]
@@ -1522,6 +1786,18 @@
               }
             ]
           }
+        },
+        "523": {
+          "json": {
+            "id": 5,
+            "value": [
+              {
+                "name": "Sugar Club wearables",
+                "type": "open_link",
+                "jsonPayload": "{\"url\":\"https://decentraland.org/marketplace/accounts/0x474543b99438a978b39d39d8983723eb5ff9196b?assetType=item&section=wearables&vendor=decentraland&page=1&sortBy=newest\"}"
+              }
+            ]
+          }
         }
       }
     },
@@ -1545,7 +1821,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 4
+            "value": 5
           }
         }
       }
@@ -2201,11 +2477,6 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
-          "json": {
-            "porportionalScaling": true
-          }
-        },
         "513": {
           "json": {}
         },
@@ -2220,6 +2491,43 @@
         },
         "517": {
           "json": {}
+        },
+        "518": {
+          "json": {}
+        },
+        "519": {
+          "json": {
+            "porportionalScaling": true
+          }
+        },
+        "520": {
+          "json": {}
+        },
+        "521": {
+          "json": {}
+        },
+        "523": {
+          "json": {}
+        }
+      }
+    },
+    {
+      "name": "inspector::Hide",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "value": {
+            "type": "boolean",
+            "serializationType": "boolean"
+          }
+        },
+        "serializationType": "map"
+      },
+      "data": {
+        "523": {
+          "json": {
+            "value": true
+          }
         }
       }
     },
